@@ -8,10 +8,10 @@ Este repositório contém os arquivos desenvolvidos durante a [Formação de HTM
 
 Os arquivos oficiais do curso, desenvolvidos pelo instrutor, estão disponíveis no repositório do Github deste curso da Alura:
 
-<img src="https://www.alura.com.br/assets/api/cursos/html-css-ambiente-arquivos-tags.svg" width="16px" height="16px"> [HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags](https://github.com/alura-cursos/Portifolio-HTML-e-CSS/).
+[<img src="https://www.alura.com.br/assets/api/cursos/html-css-ambiente-arquivos-tags.svg" width="16px" height="16px"> HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags](https://github.com/alura-cursos/Portifolio-HTML-e-CSS/).
 
 ## Cursos
 
 Os cursos em que estes arquivos foram desenvolvidos:
 
-<img src="https://www.alura.com.br/assets/api/cursos/html-css-ambiente-arquivos-tags.svg" width="16px" height="16px"> [HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags](https://cursos.alura.com.br/course/html-css-ambiente-arquivos-tags).
+[<img src="https://www.alura.com.br/assets/api/cursos/html-css-ambiente-arquivos-tags.svg" width="16px" height="16px"> HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags](https://cursos.alura.com.br/course/html-css-ambiente-arquivos-tags).
