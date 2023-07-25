@@ -12,6 +12,8 @@ The official files for the course, developed by the instructor, are available in
 
 [<img src="https://www.alura.com.br/assets/api/cursos/html-css-classes-posicionamento-flexbox.svg" width="16px" height="16px"> HTML e CSS: Classes, posicionamento e Flexbox](https://github.com/alura-cursos/Portifolio-HTML-e-CSS-Curso2).
 
+[<img src="https://www.alura.com.br/assets/api/cursos/html-css-cabecalho-footer-variaveis-css.svg" width="16px" height="16px"> HTML e CSS: cabeçalho, footer e variáveis CSS](https://github.com/alura-cursos/Portifolio-HTML-e-CSS-Curso3).
+
 ## Courses
 
 The courses in which these files were developed:
@@ -19,3 +21,5 @@ The courses in which these files were developed:
 [<img src="https://www.alura.com.br/assets/api/cursos/html-css-ambiente-arquivos-tags.svg" width="16px" height="16px"> HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags](https://cursos.alura.com.br/course/html-css-ambiente-arquivos-tags).
 
 [<img src="https://www.alura.com.br/assets/api/cursos/html-css-classes-posicionamento-flexbox.svg" width="16px" height="16px"> HTML e CSS: Classes, posicionamento e Flexbox](https://cursos.alura.com.br/course/html-css-classes-posicionamento-flexbox).
+
+[<img src="https://www.alura.com.br/assets/api/cursos/html-css-cabecalho-footer-variaveis-css.svg" width="16px" height="16px"> HTML e CSS: cabeçalho, footer e variáveis CSS](https://cursos.alura.com.br/course/html-css-cabecalho-footer-variaveis-css).
