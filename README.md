@@ -14,6 +14,8 @@ Os arquivos oficiais do curso, desenvolvidos pelo instrutor, estão disponíveis
 
 [<img src="https://www.alura.com.br/assets/api/cursos/html-css-cabecalho-footer-variaveis-css.svg" width="16px" height="16px"> HTML e CSS: cabeçalho, footer e variáveis CSS](https://github.com/alura-cursos/Portifolio-HTML-e-CSS-Curso3).
 
+[<img src="https://www.alura.com.br/assets/api/cursos/html-css-responsividade-publicacao-projetos.svg" width="16px" height="16px"> HTML e CSS: trabalhando com responsividade e publicação de projetos](https://github.com/alura-cursos/Portifolio-HTML-e-CSS-Curso4).
+
 ## Cursos
 
 Os cursos em que estes arquivos foram desenvolvidos:
@@ -23,3 +25,5 @@ Os cursos em que estes arquivos foram desenvolvidos:
 [<img src="https://www.alura.com.br/assets/api/cursos/html-css-classes-posicionamento-flexbox.svg" width="16px" height="16px"> HTML e CSS: Classes, posicionamento e Flexbox](https://cursos.alura.com.br/course/html-css-classes-posicionamento-flexbox).
 
 [<img src="https://www.alura.com.br/assets/api/cursos/html-css-cabecalho-footer-variaveis-css.svg" width="16px" height="16px"> HTML e CSS: cabeçalho, footer e variáveis CSS](https://cursos.alura.com.br/course/html-css-cabecalho-footer-variaveis-css).
+
+[<img src="https://www.alura.com.br/assets/api/cursos/html-css-responsividade-publicacao-projetos.svg" width="16px" height="16px"> HTML e CSS: trabalhando com responsividade e publicação de projetos](https://cursos.alura.com.br/course/html-css-responsividade-publicacao-projetos).
